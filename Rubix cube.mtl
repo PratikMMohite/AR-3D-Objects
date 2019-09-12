@@ -1,7 +1,7 @@
 # Blender MTL File: 'Rubix cube.blend'
 # Material Count: 7
 
-newmtl black
+newmtl white
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 0.000000 0.000000 0.000000
